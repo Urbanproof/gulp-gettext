@@ -1,0 +1,6 @@
+# External dependecies
+node_modules
+
+# Editor/environment/OS specific stuff
+.DS_Store
+.vscode
