@@ -1,0 +1,44 @@
+{
+  "_from": "github:urbanproof/gulp-gettext#v0.0.1",
+  "_id": "gulp-gettext@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/gulp-gettext",
+  "_phantomChildren": {
+    "inherits": "2.0.4",
+    "string_decoder": "1.1.1",
+    "util-deprecate": "1.0.2"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "github:urbanproof/gulp-gettext#v0.0.1",
+    "rawSpec": "github:urbanproof/gulp-gettext#v0.0.1",
+    "saveSpec": "github:urbanproof/gulp-gettext#v0.0.1",
+    "fetchSpec": null,
+    "gitCommittish": "v0.0.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "github:urbanproof/gulp-gettext#3f38a11c0b7d3f79cc87f1bec8ed809bde1b6aee",
+  "_spec": "github:urbanproof/gulp-gettext#v0.0.1",
+  "_where": "/Users/iikka/projektit/Cornerstone",
+  "author": {
+    "name": "Iikka Timlin"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "gettext-parser": "^4.0.4",
+    "through2": "^4.0.2"
+  },
+  "deprecated": false,
+  "description": "Ingests po-files, and outputs mo-files.",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "gulp-gettext",
+  "scripts": {
+    "test": "echo \"Some tests would be nice...\""
+  },
+  "version": "0.0.1"
+}
